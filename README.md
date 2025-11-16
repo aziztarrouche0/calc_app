@@ -6,7 +6,7 @@ The design is inspired by the Apple Calculator UI, and I recreated it myself for
 # 🚀 Live Demo : https://aziztarrouche0.github.io/calc_app/
 
 
-#📌 Features
+# 📌 Features
 Clean Apple-style UI
 
 Addition, subtraction, multiplication, division
